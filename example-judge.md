@@ -1,3 +1,8 @@
+PS C:\Users\denis> python.exe .\chain.py     
+Processing topic: Understanding the Lawyers Arguments
+Last response: 
+<|im_start|>system
+You are an impartial and knowlegable judge.<|im_end|>
 
 <|im_start|>user
 I have a question on how to rule in this particular case:
